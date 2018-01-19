@@ -19,8 +19,8 @@ namespace FirstMVCApp.Controllers
         {
             return new List<Movie>
             {
-                new Movie { Id = 1, Name = "Shrek" },
-                new Movie { Id = 2, Name = "Wall-e" }
+                new Movie { Id = 1, Name = "Technion Toar 1" },
+                new Movie { Id = 2, Name = "Horror of Toar 2" }
             };
         }
 
